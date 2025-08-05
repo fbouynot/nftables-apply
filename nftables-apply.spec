@@ -29,5 +29,5 @@ cp README.md $RPM_BUILD_ROOT%{_datadir}/doc/%{name}/README
 %{_bindir}/%{name}
 
 %changelog
-* Thu Jul 31 2025 Félix Bouynot <f.bouynot@instadeep.com>
+* Thu Jul 31 2025 Félix Bouynot <felix.bouynot@setenforce.one>
 - First version being packaged
