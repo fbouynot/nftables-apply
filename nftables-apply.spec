@@ -5,7 +5,7 @@ Summary:        A safer way to use nftables remotely
 
 License:        GPLv3
 URL:            https://github.com/fbouynot/nftables-apply
-Source0:        %{name}-%{version}.tar.gz
+Source0:        https://github.com/fbouynot/nftables-apply/archive/refs/heads/main.zip
 
 Requires:       bash nftables coreutils systemd sed
 
